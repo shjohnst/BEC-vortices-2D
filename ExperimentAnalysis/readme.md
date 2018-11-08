@@ -72,4 +72,4 @@ The experiment files should be loaded into lyse, which then provides access to a
 
 * Supplementary Fig. S8 was generated using data output from the `vortex_signs_classification_and_statistics.py` single shot routine with an optional flag turned on (see line 292) for the three example cases shown. This data is available at https://doi.org/10.26180/5bdfb87aae28a.
 
-If you have any queries, please contact [Shaun Johnstone](shaun.johnstone@monash.edu).
+If you have any queries, please contact [Shaun Johnstone](mailto:shaun.johnstone@monash.edu).
