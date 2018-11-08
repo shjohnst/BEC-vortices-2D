@@ -5,3 +5,5 @@
 This repository contains code used for [Monte Carlo simulations](MonteCarloSimulations) and for [analysing experimental data](ExperimentAnalysis) for the publication "Evolution of large-scale flow from turbulence in a two-dimensional superfluid" by Shaun P. Johnstone, Andrew J. Groszek, Philip T. Starkey, Christopher J. Billington, Tapio P. Simula and Kristian Helmerson.
 
 **Please refer to the readme files within each folder for further details.**
+
+The code in this repository is part of a collection of materials available at https://doi.org/10.26180/5bdf9e6d58d59
