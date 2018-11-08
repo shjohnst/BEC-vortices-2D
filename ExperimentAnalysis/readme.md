@@ -15,7 +15,7 @@ We recommend that you use [Anaconda Python 2.7](https://www.anaconda.com/downloa
 
 The analysis code provided requires lyse version 2.3.1. A list of python package versions used can be found in `python_packages.txt`.
 
-The analysis code also requires the output of the ['MonteCarloSimulations' section of this repository](https://github.com/shjohnst/BEC-vortices-2D/tree/master/MonteCarloSimulations). The required output data is available on [figshare at https://doi.org/10.26180/5bdb871be6ca4](https://doi.org/10.26180/5bdb871be6ca4). This data should be unzipped to a folder on your computer, which is then referenced in your configuration file (see below for details). The example configuration file provided assumes that this data is located in `C:\labscript_suite\userlib\monte_carlo_data\`.
+The analysis code also requires the output of the ['MonteCarloSimulations' section of this repository](../MonteCarloSimulations). The required output data is available on [figshare at https://doi.org/10.26180/5bdb871be6ca4](https://doi.org/10.26180/5bdb871be6ca4). This data should be unzipped to a folder on your computer, which is then referenced in your configuration file (see below for details). The example configuration file provided assumes that this data is located in `C:\labscript_suite\userlib\monte_carlo_data\`.
 
 ## Configuration file
 When setting up the labscript suite, you require a configuration file, which identifies the directories for the experiment shot storage, analysis code, and additionally, in these analysis scripts, the monte carlo data.
